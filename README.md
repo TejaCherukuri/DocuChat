@@ -75,6 +75,3 @@ DocuChat/
 - Enhanced summarization features.
 - Improved AI response accuracy with fine-tuned models.
 
-## License
-
-This project is licensed under the MIT License.
